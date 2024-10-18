@@ -23,8 +23,6 @@
   pruneTags = true
 [user]
   useConfigOnly = true
-	email = jchrismilton@gmail.com
-	name = J4yM1l
 [diff]
   indentHeuristic = on
   noprefix = true
@@ -86,3 +84,5 @@
 # Allow local customizations in the .gitconfig_local file
 [include]
   path = ~/.gitconfig_local
+[gpg]
+	program = gpg
