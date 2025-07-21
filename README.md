@@ -1,6 +1,6 @@
-# sobolevn's dotfiles
+# ======== J4yM1l's dotfiles ========
 
-Forked from @sobolevn dotfile repo - big shout out to these developer!
+Forked from @sobolevn dotfile repo - big shout out to these folks for the inspiration!
 
 [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles.git)
 
