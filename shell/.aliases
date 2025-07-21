@@ -33,7 +33,7 @@ alias gdlb="git branch -D $1"
 #########################################################################################################
 alias pdm='podman'
 # alias pcc='pdm rm -f $(pdm ps -a -q)'
-# alias pdmps='pdm ps -ap'
+alias pdmps='pdm ps -ap'
 alias pimgs='pdm images'
 alias pimg='pdm image'
 alias pvr='pdm volume rm $(pdm volume ls -q)'
