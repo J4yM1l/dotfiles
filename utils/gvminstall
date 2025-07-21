@@ -1,7 +1,9 @@
  #!/bin/zsh
 # Script Origin: https://github.com/moovweb/gvm/issues/385#issuecomment-2072014363
 
- # Usage: ./gvm-install-mac-version 1.23.2
+# Usage: ./gvminstall VERSION PROCTYPE
+ # E.g: Usage: ./gvminstall 1.23.2 darwin-arm64
+# Get your go VERSION AND PROCTYPE FROM THIS URL:https://go.dev/dl/
  # Define the Go version you want to download as the first argument
  VERSION=$1
  PROCTYPE=$2
